@@ -1,4 +1,4 @@
-from Abbott_and_Costello import WhosOnFirstChatbot
+from abbott_and_costello import WhosOnFirstChatbot
 
 def run_chatbot():
     bot = WhosOnFirstChatbot()
