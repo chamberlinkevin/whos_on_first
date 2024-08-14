@@ -17,3 +17,8 @@ The routine was first performed as part of their stage act in the late 1930s. It
 ### Prerequisites
 
 - Python 3.x
+
+
+### Perform the sketch!
+
+`py run_chatbot.py`
